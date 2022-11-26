@@ -19,6 +19,7 @@
 **JWT**
 **JSON**
 **JEST**
+**HTTP**
 
 # Gerência de Requisitos
      - Requitos Funcionais
